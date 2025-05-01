@@ -1,0 +1,27 @@
+.detail {
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+}
+
+.detail__image {
+  max-width: 500px;
+  max-height: 500px;
+}
+
+.detail__name {
+  color: white;
+  margin-top: 30px;
+  font-size: x-large;
+  font-weight: bolder;
+}
+
+.detail__overview {
+  max-width: 500px;
+  color: white;
+  margin-top: 30px;
+  text-align: center;
+}
